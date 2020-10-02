@@ -1,4 +1,4 @@
-#Discover Marvel
+# Discover Marvel
 
 Discover Marvel is an iPhone application that uses Marvel®'s API in order to give users information on characters, creators, and comics.
 
